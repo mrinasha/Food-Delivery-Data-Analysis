@@ -1,18 +1,18 @@
-This project involves analyzing a food delivery app dataset using SQL. Here's a summary of the tasks accomplished:
+#This project involves analyzing a food delivery app dataset using SQL. Here's a summary of the tasks accomplished:
 
-Find customers who have never ordered:
+1.Find customers who have never ordered:
 Identify customers who do not have any order records in the dataset.
 
-Average Price/dish:
+2.Average Price/dish:
 Calculate the average price per dish across all orders.
 
-Find the top restaurant in terms of the number of orders for a given month:
+3.Find the top restaurant in terms of the number of orders for a given month:
 Determine the restaurant with the highest number of orders for a specific month.
 
-Restaurants with monthly sales greater than x:
+4.Restaurants with monthly sales greater than x:
 Identify restaurants with monthly sales exceeding a certain threshold.
 
-Show all orders with order details for a particular customer in a particular date range:
+5.Show all orders with order details for a particular customer in a particular date range:
 Retrieve all orders with their details (e.g., order ID, date, restaurant, dish) for a specific customer within a given date range.
 
 Find restaurants with the maximum repeated customers:
